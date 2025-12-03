@@ -14,3 +14,5 @@ go run <파일이름>
 go build
 ```
 
+
+## Go 특징

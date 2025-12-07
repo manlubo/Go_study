@@ -1,0 +1,11 @@
+package main
+
+import "fmt"
+
+func Const() {
+	const C int = 10
+
+	var b int = C * 20
+	// C = 20
+	fmt.Println(b)
+}
